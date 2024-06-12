@@ -12,17 +12,18 @@ To install the project, follow these steps:
 
 1. Install the required Python packages:
 
-```bash
-pip install -r requirements.txt
-
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 2. Apply the Django database migrations:
 
-```bash
-python manage.py migrate
-
+    ```bash
+    python manage.py migrate
+    ```
 
 3. Run the Django development server:
 
-```bash
-python manage.py runserver
+    ```bash
+    python manage.py runserver
+    ```
